@@ -13,6 +13,14 @@
   "categories": [
     "Themes"
   ],
+  "bugs": {
+    "url": "https://github.com/Davidcreador/passion-theme-vscode/issues",
+    "email": "davidcreador@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Davidcreador/passion-theme-vscode.git"
+  },
   "contributes": {
     "themes": [
       {
