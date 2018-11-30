@@ -4,8 +4,13 @@
   "description": "Just a theme to express some colors for passion",
   "version": "0.0.1",
   "publisher": "codersforfun",
+  "icon": "passion-logo.png",
   "author": {
     "name": "DaveCodes"
+  },
+  "galleryBanner": {
+    "color": "#FCEAE5",
+    "theme": "light"
   },
   "engines": {
     "vscode": "^1.29.0"
@@ -21,6 +26,12 @@
     "type": "git",
     "url": "https://github.com/Davidcreador/passion-theme-vscode.git"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "passion",
+    "warm"
+  ],
   "contributes": {
     "themes": [
       {

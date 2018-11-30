@@ -1,5 +1,10 @@
 # PASSION THEME
 
-- Go to preferences and choose Color Theme or hit (`Cmd+k` on macOS or `Ctrl+k` on Windows and Linux) and select the Passion theme
+## Installation
 
-**Enjoy!**
+- Open the Extensions sidebar in VS Code
+- Search for Horizon Theme
+- Click Install and Reload
+- Open the Command Palette with Ctrl+Shift+P
+- Select Preferences: Color Theme and choose a Horizon variant.
+- Enjoy! 🎉 Also, check out some of the personalization options below...
