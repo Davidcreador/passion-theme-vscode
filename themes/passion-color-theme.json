@@ -238,6 +238,13 @@
       }
     },
     {
+      "name": "Meta Round Brace",
+      "scope": ["meta.brace.round.ts", "meta.field.declaration.ts"],
+      "settings": {
+        "foreground": "#568ef7"
+      }
+    },
+    {
       "name": "Variable Instances",
       "scope": [
         "variable.instance",
@@ -320,10 +327,10 @@
       }
     },
     {
-      "name": "Template Strings",
-      "scope": "string.template meta.template.expression",
+      "name": "String Template",
+      "scope": ["string.template", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#d3423e"
+        "foreground": "#77AF9C"
       }
     },
     {
@@ -331,6 +338,13 @@
       "scope": "string.template punctuation.definition.string",
       "settings": {
         "foreground": "#FCFCFC"
+      }
+    },
+    {
+      "name": "Storage (declaration or modifier keyword)",
+      "scope": ["storage.modifier"],
+      "settings": {
+        "foreground": "#B877DBE6"
       }
     },
     {
@@ -381,7 +395,7 @@
         "keyword.control.from.tsx"
       ],
       "settings": {
-        "foreground": "#BBBBBB",
+        "foreground": "#80CBC4",
         "fontStyle": "italic"
       }
     },
@@ -486,7 +500,20 @@
         "foreground": "#7986E7"
       }
     },
-
+    {
+      "name": "Object literal key / property",
+      "scope": ["meta.object-literal.key", "support.type.property-name"],
+      "settings": {
+        "foreground": "#F7567C"
+      }
+    },
+    {
+      "name": "Key-value separator",
+      "scope": "punctuation.separator.key-value",
+      "settings": {
+        "foreground": "#AAFCB8"
+      }
+    },
     {
       "name": "JavaScript[React] Variable Other Object",
       "scope": [
