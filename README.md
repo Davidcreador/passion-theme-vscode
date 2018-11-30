@@ -10,7 +10,7 @@
 - Enjoy! 🎉 Also, check out some of the personalization options below...
 
 <p align="center">
-  <img alt="preview" src="https://imgur.com/BdcLdRh" width="90%">
+  <img alt="preview" src="https://i.imgur.com/BdcLdRh.png" width="90%">
 </p>
 
 ## License
