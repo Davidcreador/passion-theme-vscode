@@ -1,0 +1,25 @@
+{
+  "name": "passion",
+  "displayName": "Passion",
+  "description": "Just a theme to express some colors for passion",
+  "version": "0.0.1",
+  "publisher": "codersforfun",
+  "author": {
+    "name": "DaveCodes"
+  },
+  "engines": {
+    "vscode": "^1.29.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Passion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/passion-color-theme.json"
+      }
+    ]
+  }
+}

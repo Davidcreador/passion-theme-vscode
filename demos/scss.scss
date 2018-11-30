@@ -1,0 +1,9 @@
+.someClass {
+  &.active {
+    display: block;
+
+    @include BreakPoint(md) {
+      display: none;
+    }
+  }
+}
